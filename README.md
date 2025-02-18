@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Cool Tool Demos](https://github.com/iron-hope-shop/tool-demos#demos)
+[Cool Tool Demos](https://github.com/iron-hope-shop/tool-demos)
