@@ -1,4 +1,4 @@
-![profile-banner](./images/test_cache_bust.gif)  
+![profile-banner](./images/test.gif)  
 
 # Hey, I'm Brad Jackson 👋
 
