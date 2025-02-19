@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 ![profile-banner](./images/test_cache_bust.gif)  
-  
+
 # Hey, I'm Brad Jackson 👋
 I'm a Software Architect and Computer Systems Engineer based in Rogers, AR, passionate about building scalable, cost-saving solutions in cloud architecture, cybersecurity, and automation. Whether it's streamlining workflows or architecting microservices, I love turning complex challenges into elegant, high-performance systems.
-=======
-![profile-banner](./images/test_cache_bust.gif)
-<!--
-**iron-hope-shop/iron-hope-shop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
->>>>>>> 4c9b9728f2b4a303074c738cfd1677055a983d85
 
 ---
 
@@ -41,6 +35,7 @@ I love experimenting with creative ideas and solving real-world problems. Here a
 - 🚀 [BORD Search](https://bordsearch.com) – An innovative reaction search engine.
 - 📈 [Runetick](https://runetick.com) – A platform delivering real-time trading insights.
 - 🤖 Internal automation tools and chatbots that have streamlined operations for thousands.
+- 🛠️ [Cool Tool Demos](https://github.com/iron-hope-shop/tool-demos)
 - ...and many more! (Check out my [pinned repositories](https://github.com/iron-hope-shop) for details.)
 
 ---
@@ -58,4 +53,3 @@ Feel free to reach out if you're interested in collaboration, innovation, or sim
 *“I turn complexity into clarity—one line of code at a time.”*
 
 
-[Cool Tool Demos](https://github.com/iron-hope-shop/tool-demos)
