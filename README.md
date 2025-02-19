@@ -1,4 +1,5 @@
 ![profile-banner](./images/test.gif)  
+*“I fight for the user.”* - **Tron**
 
 # Hey, I'm Brad Jackson 👋
 
@@ -12,7 +13,7 @@ I'm a Software Architect and Computer Systems Engineer based in Rogers, AR, pass
 - 💼 **Previously:** Held various technical roles at Walmart Global Tech (from Technician to Senior Cybersecurity Engineer) where I:
   - Developed Java/Spring Boot microservices to process **100+ ServiceNow tickets/day** with sub-100ms response times.
   - Saved over **$1M annually** by automating bulk account management across multiple time zones.
-  - Launched an internal chatbot and documentation website that became the go-to resource for thousands.
+  - Launched an internal chatbot and documentation website that became the go-to resource for hundreds of my associates.
 - 🎓 **Education:** Bachelor of Computer Science, Summa Cum Laude from Southern New Hampshire University (GPA: 3.943).
 - 🏆 **Certifications:** GIAC OSINT, GIAC GWEB, Security+, plus specialized training in Nutanix, Python, and more.
 
@@ -50,7 +51,3 @@ I love experimenting with creative ideas and solving real-world problems. Here a
 Feel free to reach out if you're interested in collaboration, innovation, or simply want to chat about technology!
 
 ---
-
-*“I fight for the user.”* - **Tron**
-
-
