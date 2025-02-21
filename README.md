@@ -8,6 +8,7 @@ I'm a Software Architect and Computer Systems Engineer based in Rogers, AR, pass
 ---
 
 ## About Me
+I have 7 years of professional engineering experience.  
 
 - 🔭 **Currently:** Founder, CEO & CTO at Bharo, LLC – where I lead innovative projects like a loan tracking app and more.
 - 💼 **Previously:** Held various technical roles at Walmart Global Tech (from Technician to Senior Cybersecurity Engineer) where I:
