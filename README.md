@@ -1,7 +1,7 @@
 ![profile-banner](./images/test.gif)  
 *“I fight for the user.” - Tron*
 
-# Hey, I'm Brad Jackson 👋
+# Hey, I'm Brad Jackson 🧑🏻‍💻
 
 I'm a Software Architect and Computer Systems Engineer based in Rogers, AR, passionate about building scalable, cost-saving solutions in cloud architecture, cybersecurity, and automation. Whether it's streamlining workflows or architecting microservices, I love turning complex challenges into elegant, high-performance systems.
 
@@ -12,7 +12,7 @@ I have 7 years of professional engineering experience.
 
 - 🔭 **Currently:** Founder, CEO & CTO at Bharo, LLC – where I lead innovative projects like a loan tracking app and more.
 - 💼 **Previously:** Held various technical roles at Walmart Global Tech (from Technician to Senior Cybersecurity Engineer) where I:
-  - Developed Java/Spring Boot microservices to process **100+ ServiceNow tickets/day** with sub-100ms response times.
+  - Developed Java/Spring Boot 🌱 microservices to process **100+ ServiceNow tickets/day** with sub-100ms response times.
   - Saved over **$1M annually** by automating bulk account management across multiple time zones.
   - Launched an internal chatbot and documentation website that became the go-to resource for hundreds of my associates.
 - 🎓 **Education:** Bachelor of Computer Science, Summa Cum Laude from Southern New Hampshire University (GPA: 3.943).
@@ -39,16 +39,18 @@ I love experimenting with creative ideas and solving real-world problems. Here a
 - 📈 [Runetick](https://runetick.com) – A platform delivering real-time trading insights.
 - 🤖 Internal automation tools and chatbots that have streamlined operations for thousands.
 - 🛠️ [Cool Tool Demos](https://github.com/iron-hope-shop/tool-demos)
-- ...and many more! (Check out my [pinned repositories](https://github.com/iron-hope-shop) for details.)
+- Check out my [pinned repositories](https://github.com/iron-hope-shop#lets-connect) for more projects and open-source code!
 
 ---
 
 ## Let's Connect
 
-- 🌐 [Portfolio](https://brad-jackson.com)
+- 🔮 [Portfolio](https://brad-jackson.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bradley-jackson-a73a92191)
 - 📧 [Email Me](mailto:me@brad-jackson.com)
 
-Feel free to reach out if you're interested in collaboration, innovation, or simply want to chat about technology!
+Feel free to reach out if you're interested in collaboration, innovation, or simply want to chat about technology!  
+
+Fun fact: Iron-Hope-Shop is an anagram for "siphonophore"  
 
 ---
