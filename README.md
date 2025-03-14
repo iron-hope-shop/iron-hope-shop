@@ -24,14 +24,50 @@ I thrive on learning new technologies quickly, connecting cross-domain insights,
 
 ## My Tech Stack
 
-- **Languages & Frameworks:** Java (Spring Boot), Python, JavaScript
+- **Languages & Frameworks:** Java (Spring Boot), Python, JavaScript, Rust
 - **Web & Cloud:** React (MUI, Vite, Tailwind), Elastic, Firestore, Firebase SSO with RBAC, Google Cloud Storage, Azure, GCP
 - **Tools & Automation:** Docker, Kubernetes, Bash, C# .NET, ServiceNow integrations, automated & load testing
 - **Development Practices:** Agile (Jira, SDLC, CI/CD), technical documentation, codebase refactoring
+- **Security:** Steganography, Cryptography (AES-256, ChaCha20, RSA), Digital Forensics
 
 ---
 
-## Projects & Contributions
+## Featured Project: nHale
+
+<div align="center">
+  <img src="./images/banner.gif" alt="nHale - A Modular, High-Performance Steganography Library" width="100%">
+</div>
+
+nHale is an advanced open-source steganography toolkit I developed in Rust, designed for secure message embedding, extraction, and analysis across various file formats. It provides a lightweight, efficient, and modular implementation of steganographic algorithms.
+
+### Key Features
+- 🔒 **Secure Embedding:** Support for PNG, JPG, and PDF files
+- 🔐 **Strong Encryption:** AES-256, ChaCha20, and RSA encryption support
+- ✅ **Data Integrity:** HMAC verification and Reed-Solomon error correction
+- 📄 **Format Support:** 
+  - **Fully Implemented:** PNG, PDF
+  - **Partially Implemented:** JPG
+  - **Planned:** BMP, GIF, WAV, MP3, MP4
+
+### Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/iron-hope-shop/nHale.git
+cd nhale
+
+# Build the project
+cargo build --release
+
+# Basic usage examples
+nhale-cli embed -i input.png -o output.png -d "Secret message"
+nhale-cli extract -i output.png
+```
+
+For more details, check out the [nHale repository](https://github.com/iron-hope-shop/nHale).
+
+---
+
+## Other Projects & Contributions
 
 I love experimenting with creative ideas and solving real-world problems. Here are a few things you might find interesting on my GitHub:
 
