@@ -28,40 +28,23 @@ I thrive on learning new technologies quickly, connecting cross-domain insights,
 - **Web & Cloud:** React (MUI, Vite, Tailwind), Elastic, Firestore, Firebase SSO with RBAC, Google Cloud Storage, Azure, GCP
 - **Tools & Automation:** Docker, Kubernetes, Bash, C# .NET, ServiceNow integrations, automated & load testing
 - **Development Practices:** Agile (Jira, SDLC, CI/CD), technical documentation, codebase refactoring
-- **Security:** Steganography, Cryptography (AES-256, ChaCha20, RSA), Digital Forensics
+- **Security:** Steganography, Steganalysis, Cryptography (AES-256, ChaCha20, RSA), Digital Forensics
 
 ---
 
 ## Featured Project: nHale
 
 <div align="center">
-  <img src="./images/banner.gif" alt="nHale - A Modular, High-Performance Steganography Library" width="100%">
+  <img src="./images/banner.gif" alt="nHale - A Modular, High-Performance Steganography and Steganalysis Toolkit" width="100%">
 </div>
 
-nHale is an advanced open-source steganography toolkit I developed in Rust, designed for secure message embedding, extraction, and analysis across various file formats. It provides a lightweight, efficient, and modular implementation of steganographic algorithms.
+nHale is an advanced open-source toolkit I developed in Rust for secure steganography **and steganalysis**. It enables secure message embedding, extraction, and forensic analysis across various file formats. The project provides a lightweight, efficient, and modular implementation of both steganographic and steganalysis algorithms, making it an ideal tool for cybersecurity professionals and digital forensics experts.
 
 ### Key Features
-- 🔒 **Secure Embedding:** Support for PNG, JPG, and PDF files
-- 🔐 **Strong Encryption:** AES-256, ChaCha20, and RSA encryption support
-- ✅ **Data Integrity:** HMAC verification and Reed-Solomon error correction
-- 📄 **Format Support:** 
-  - **Fully Implemented:** PNG, PDF
-  - **Partially Implemented:** JPG
-  - **Planned:** BMP, GIF, WAV, MP3, MP4
-
-### Quick Start
-```bash
-# Clone the repository
-git clone https://github.com/iron-hope-shop/nHale.git
-cd nhale
-
-# Build the project
-cargo build --release
-
-# Basic usage examples
-nhale-cli embed -i input.png -o output.png -d "Secret message"
-nhale-cli extract -i output.png
-```
+- 🔒 **Secure Embedding:** Support for PNG, JPG, and PDF files.
+- 🔐 **Strong Encryption:** AES-256, ChaCha20, and RSA encryption support.
+- ✅ **Data Integrity:** HMAC verification and Reed-Solomon error correction.
+- 🔎 **Steganalysis:** Detect hidden data using statistical analysis, anomaly detection, and optional machine learning-based methods.
 
 For more details, check out the [nHale repository](https://github.com/iron-hope-shop/nHale).
 
@@ -85,8 +68,8 @@ I love experimenting with creative ideas and solving real-world problems. Here a
 - 💼 [LinkedIn](https://www.linkedin.com/in/bradley-jackson-a73a92191)
 - 📧 [Email Me](mailto:me@brad-jackson.com)
 
-Feel free to reach out if you're interested in collaboration, innovation, or simply want to chat about technology!  
+Feel free to reach out if you're interested in collaboration, innovation, or simply want to chat about technology!
 
-Fun fact: Iron-Hope-Shop is an anagram for "siphonophore"  
+<!-- Fun fact: Iron Hope Shop is an anagram for Siphonophore-->
 
 ---
