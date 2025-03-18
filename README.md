@@ -1,4 +1,4 @@
-# 🔍 LOOKING FOR WORK 
+# 🔍 LOOKING FOR WORK 💼
 ![profile-banner](./images/test.gif)  
 *“I fight for the user.” - Tron*
 
