@@ -5,11 +5,6 @@ Hey, I'm Brad Jackson 🧑🏻‍💻
   
 I'm a Software Architect and Computer Systems Engineer based in Rogers, AR, passionate about building scalable, cost-saving solutions in cloud architecture, cybersecurity, and automation. I have 7 years of professional engineering experience and I know how to use it. I thrive on learning new technologies quickly and digging around for information.
 
-- 🔭 **Currently:** Founder, Founder at Bharo, LLC (backlogged) & spearheading a new project [Ozark Cybersecurity Research Group (OCRG)](https://github.com/OCRG).
-- 💼 **Previously:** Held various technical roles at Walmart Global Tech (from Technician to Senior Cybersecurity Engineer) where I:
-  - Developed Java/Spring Boot 🌱 microservices to process ServiceNow tickets w/ sub-100ms response times, 50k+ users.
-  - Saved over **$1M annually** by automating bulk account management across multiple time zones.
-  - Launched an internal chatbot and documentation website that became the go-to resource for hundreds of my associates.
 - 🎓 **Education:** Bachelor of Computer Science, Summa Cum Laude from Southern New Hampshire University (GPA: 3.943).
 - 🏆 **Certifications:** GIAC OSINT, GIAC GWEB, Security+, plus specialized training in Nutanix, Python, and more.  
 
